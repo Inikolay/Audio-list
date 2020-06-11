@@ -1,0 +1,140 @@
+body{
+    overflow-x: hidden;
+    background: #F2F2F2;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+}
+
+li{
+    list-style: none;
+}
+
+.logo a{
+font-family: 'Nunito Sans', sans-serif;
+color: #ffffff;
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 27px;
+margin-left: 135px;
+margin-top: 30px;
+}
+
+.header-bacgraund{
+    background: url('../assets/Background.png') no-repeat;
+    width: 100%;
+    height: 720px;
+    background-size: 100%;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 260px;
+}
+
+.list-style ul li {
+    display: inline-flex;
+}
+
+.list-style ul li a{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 35px;
+    margin-right: 55px;
+}
+
+    .list-style .btn-get-it-free {
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    color: #282B31;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    background: #fff;
+    border-radius: 6px;
+    padding: 10px 30px;
+}
+
+.app-store{
+    display: flex;
+}
+
+.app-store-block img {
+    margin-left: 135px;
+    margin-top: 180px;
+}
+
+.app-store-block p {
+    margin-left: 135px;
+}
+.app-store-block-btn{
+    margin-left: 135px;
+}
+
+.app-store-block-btn{
+    display: flex;
+    margin-top: 51px;
+}
+
+.block-tabl{
+    margin-left: 360px;
+    margin-top: 140px;
+}
+
+.app-store p span{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 50px;
+    margin-top: 20px;
+}
+
+.app-store p {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.btn-download{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    color: #fff;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 19px;
+    background: linear-gradient(163.33deg, #FF8E64 0%, #FFE641 100%);
+    border-radius: 6px;
+    padding: 14px 20px;
+}
+
+.btn-watch-vireo{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    color: #282B31;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 19px;
+    background: #fff;
+    border-radius: 6px;
+    padding: 14px 20px;
+    margin-left: 20px;
+}
+
+

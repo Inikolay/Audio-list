@@ -1,0 +1,31 @@
+
+.position-block{
+    display: flex;
+    justify-content: center; 
+    margin: 30px;
+}
+
+.list-block{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #5586F2;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.time{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #676C75;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+    background: #E7E8EA;
+    border: 1px solid #E7E8EA;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin-left: 50px;
+}

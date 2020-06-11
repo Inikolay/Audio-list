@@ -1,0 +1,9 @@
+.list{
+    position: relative;   
+}
+
+.list-position{
+    position: absolute;
+    top: 110px;
+    left: 120px;
+}

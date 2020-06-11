@@ -1,0 +1,146 @@
+h1{
+    color: crimson;
+}
+
+.input-timer-name{
+    width: 305px;
+    height: 50px;
+    background: #F8F9FA;
+    border: 1px solid #E7E8EA;
+    box-sizing: border-box;
+    border-radius: 6px;
+        font-family: 'Nunito Sans', sans-serif;
+        color: rgba(103, 108, 117, 0.7);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 23px;
+        padding: 20px;
+            position: absolute;
+            left: 140px;
+            top: 40px;
+    }
+    
+    .btn-create-timer{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #ffff;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    background: linear-gradient(163.14deg, #FF8E64 0%, #FFE641 100%);
+    border-radius: 6px;
+    border: none;
+    padding: 12px 30px;
+            position: absolute;
+            left: 492px;
+            top: 40px;
+    
+    }
+
+    .btn-play{
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        border: none;
+        background: linear-gradient(135deg, #7956EC 0%, #2FB9F8 100%);
+        margin-left: 40px;
+    }
+
+    .btn-delete{
+        width: 50px;
+        height: 50px;
+        border-radius: 6px;
+        border: none;
+        background: linear-gradient(135deg, #F23673 0%, #FCA069 100%);
+        margin-left: 30px;
+    }
+
+
+    .footer-block{
+        height: 100px;
+        display: flex;
+        justify-content: space-between;
+        background-size: 1920px;
+        background: #fff;
+        border: 1px solid #E7E8EA;
+        margin-top: 200px;
+    }
+
+    .logo-footer a{
+        font-family: 'Nunito Sans', sans-serif;
+        color: #282B31;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 25px;
+        margin-left: 120px;
+        margin-top: 50px;
+}
+
+.social-networks {
+    margin-top: 30px;
+    margin-right: 150px;
+}
+
+.social-networks ul li{
+    display: inline-block;
+}
+
+.btn-tw{
+    border: 1px solid #E7E8EA;
+    box-sizing: border-box;
+    border-radius: 6px 0px 0px 6px;
+    padding: 10px;
+}
+
+.btn-fb{
+    background: #FFFFFF;
+    border: 1px solid #E7E8EA;
+    box-sizing: border-box;
+    padding: 9.5px;
+}
+
+.btn-inst{
+    background: #FFFFFF;
+    border: 1px solid #E7E8EA;
+    box-sizing: border-box;
+    border-radius: 0px 6px 6px 0px;
+    padding: 10px;
+    
+}
+
+.copyright{
+    margin-top: 50px;
+}
+
+
+.footer-text-created{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #999EA8;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+.footer-text-created span{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #282B31;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+.copy{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    color: #999EA8;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+
+}
+

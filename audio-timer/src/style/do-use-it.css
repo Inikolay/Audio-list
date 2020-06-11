@@ -1,0 +1,53 @@
+
+.use-block{
+    text-align: center;
+    margin-top: 350px;
+}
+
+
+.use-block h5 span {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #282B31;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.use-block h5{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #282B31;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.use-block p{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #676C75;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.border-play-audio{
+    width: 770px;
+    height: 420px;
+    background: #fff; 
+    box-shadow: 0px 1px 3px rgba(32, 33, 39, 0.12);
+    border-radius: 12px; 
+    margin-left: 550px; 
+    margin-top: 60px; 
+        position: relative;
+}
+
+
+
+/* .line{
+width:500px;
+border-top:1px solid #9EC1D4;
+border-bottom: dotted 1px #9EC1D4;
+padding-left:10px;
+} */
